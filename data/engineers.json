@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Raj",
+    "location": "Bangalore",
+    "shift": "6AM-3PM",
+    "level": "L2"
+  },
+  {
+    "name": "Sarah",
+    "location": "Israel",
+    "shift": "8AM-5PM",
+    "level": "L3"
+  },
+  {
+    "name": "Mike",
+    "location": "Newyork",
+    "shift": "9AM-6PM",
+    "level": "L2"
+  }
+]

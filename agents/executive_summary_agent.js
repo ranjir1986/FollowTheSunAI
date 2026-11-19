@@ -1,16 +1,16 @@
 function generateSummary(metrics) {
-
     return `
-Weekly Support Summary
-
-Total Tickets: ${metrics.tickets}
-
-Escalations: ${metrics.escalations}
-
-Customer Satisfaction: ${metrics.csat}%
-
-Recommendation:
-Increase staffing in high-volume regions.
+==================================================
+           WEEKLY EXECUTIVE SUMMARY
+==================================================
+Total Tickets Processed : ${metrics.totalTickets}
+Critical Escalations    : ${metrics.escalations}
+Simulated CSAT          : ${metrics.csat}%
+--------------------------------------------------
+Workforce Recommendation:
+We have ${metrics.totalTickets} tickets. 
+You need ${metrics.agentsRequired} support agents on shift.
+==================================================
 `;
 }
 

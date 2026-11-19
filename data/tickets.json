@@ -1,0 +1,26 @@
+[
+  {
+    "ticketId": "INC001",
+    "title": "500 users cannot login",
+    "priority": "P1",
+    "region": "APAC",
+    "customerTier": "Enterprise",
+    "status": "Open"
+  },
+  {
+    "ticketId": "INC002",
+    "title": "Email sync issue",
+    "priority": "P2",
+    "region": "EMEA",
+    "customerTier": "Standard",
+    "status": "Open"
+  },
+  {
+    "ticketId": "INC003",
+    "title": "Teams call quality issue",
+    "priority": "P3",
+    "region": "AMER",
+    "customerTier": "Standard",
+    "status": "Open"
+  }
+]

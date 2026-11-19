@@ -1,0 +1,29 @@
+{
+  "name": "followthesunai",
+  "version": "1.0.0",
+  "description": "An AI-powered support operations platform that simulates a global Follow-the-Sun support organisation. The platform demonstrates how AI agents can automate ticket triage, routing, SLA management, shift handovers and executive reporting across APAC, EMEA and AMER support centres.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjir1986/FollowTheSunAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ranjir1986/FollowTheSunAI/issues"
+  },
+  "homepage": "https://github.com/ranjir1986/FollowTheSunAI#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "openai": "^7.60.0"
+  }
+}

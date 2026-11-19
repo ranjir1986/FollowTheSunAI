@@ -1,0 +1,17 @@
+[
+  {
+    "center": "Bangalore",
+    "timezone": "IST",
+    "capacity": 20
+  },
+  {
+    "center": "Israel",
+    "timezone": "GMT",
+    "capacity": 15
+  },
+  {
+    "center": "Newyork",
+    "timezone": "EST",
+    "capacity": 18
+  }
+]
